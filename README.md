@@ -57,4 +57,5 @@ The optimal multiple linear model produced by application of Backward Stepwise p
 | PopPerc14                | 2.624e-02      | 1.349e-02              | 1.945       | 0.05440      |
 | WomBusiness              | 6.641e-03      | 3.267e-03              | 2.033       | 0.04449      |
 | FertCat                  | 2.630e-01      | 1.896e-01              | 1.387       | 0.16836      |
+
 The analysis.R contains all the necessary code to complete the assignment. The report.pdf is a full report describing solutions to every section of the assignment
