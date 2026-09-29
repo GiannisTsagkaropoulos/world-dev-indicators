@@ -4,7 +4,7 @@ Computational implementation of semester project in Linear Models ( 654. Γρα�
 
 ## Assignment
 
-  We were given a subset of the data of [World Bank's WDI database](https://databank.worldbank.org/reports.aspx?source/world-development-indicators) (data_tidy.csv) consisting of 27 variables for 120 countries, in the year 2018.
+  We were given a subset of the data of [World Bank's WDI database](https://databank.worldbank.org/source/world-development-indicators) (data_tidy.csv) consisting of 27 variables for 120 countries, in the year 2018.
 
   The assignment comprised of 3 parts.
 
